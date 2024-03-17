@@ -4,4 +4,6 @@
 
 <p>Responsivo para todas as telas exceto 4k<p>
 
-<img src="./src/assets/20240316233244.mp4">
+<div style="display: flex; border: 1px solid orange; border-radius: 15px;">
+<img width="500px" height="500px" src="./src/assets/20240316233244.gif">
+<div>
